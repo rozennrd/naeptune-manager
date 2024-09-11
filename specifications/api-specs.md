@@ -27,25 +27,25 @@ Le texte suivant sert à démarrer le projet. Les spécifications suivante sont 
 
 # Les données
 
-On estime que une vente est caractérisé par:
+### On estime que une vente est caractérisé par:
 	- une liste de ProduitVente
 	- un prix total
 	- un acheteur (utilisateur)
 
-On estime que une ProduitVente est caractérisé par:
+### On estime que une ProduitVente est caractérisé par:
 	- un produit
 	- une quantite
 	- un prix total
 	- une date et une heure
 
-On estime qu'un produit est caractérisé par:
+### On estime qu'un produit est caractérisé par:
 	- un stock
 	- un stock idéal
 	- un nom
 	- un prix adherent
 	- un prix non adherent
 
-On estime qu'un utilisateur est caractérisé par:
+### On estime qu'un utilisateur est caractérisé par:
 	- un nom
 	- un prenom
 	- un mail
