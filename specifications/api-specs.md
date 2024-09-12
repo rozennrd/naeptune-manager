@@ -44,6 +44,7 @@ Le texte suivant sert à démarrer le projet. Les spécifications suivante sont 
 	- un nom
 	- un prix adherent
 	- un prix non adherent
+ 	- une photo du produit 
 
 ### On estime qu'un utilisateur est caractérisé par:
 	- un nom
