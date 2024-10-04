@@ -18,9 +18,9 @@ Le texte suivant sert à démarrer le projet. Les spécifications suivante sont 
 	- ajout de produit
 	- suppression de produit
 	- update de produit
-	- lecture de produit
+	- lecture de produit : récupération de tous les produits + récupération d'un produit par id
 
-3. Gestions des vents
+3. Gestions des ventes
 	- ajout/supression d'une vente (update du stock)
 	- suppression d'une vente (update du stock)
 	- update d'une vente (update du stock)
